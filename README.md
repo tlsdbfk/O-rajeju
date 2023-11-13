@@ -18,8 +18,8 @@ Streamlit을 사용하여 사용자가 원하는 음식, 풍격 등을 입력하
   
 
 ## Dataset
-<img width="1362" alt="example" src="https://github.com/tlsdbfk/o-rajeju/assets/68388156/9a528e3d-6870-4366-be17-b4c6954bcfbe">
+<img width="1362" alt="example" src="https://github.com/tlsdbfk/o-rajeju/assets/68388156/5e0a5d3f-764d-4ffd-a503-15b80e43a301">
 
 
 ## Result
-<img width="571" alt="result2" src="https://github.com/tlsdbfk/o-rajeju/assets/68388156/de18df22-3ae5-4090-8314-15f0ae07427e">
+<img width="571" alt="result" src="https://github.com/tlsdbfk/o-rajeju/assets/68388156/a7240ec1-5ea2-4687-afdf-f302bf0e6cf9">
