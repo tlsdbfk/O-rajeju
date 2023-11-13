@@ -7,3 +7,4 @@
 
 ## Result
 ![example](https://github.com/tlsdbfk/o-rajeju/assets/68388156/ca808a16-3a96-410c-b984-668cd1c13836)
+![result](https://github.com/tlsdbfk/o-rajeju/assets/68388156/3071d74e-f5a2-4770-9f83-250f0ef59d8c)
